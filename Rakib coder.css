@@ -1,0 +1,66 @@
+span{
+	color:green;
+font-size:50px;	
+}
+#RAKIB3{
+border-right:5px green solid;
+border-top:5px red solid;
+border-bottom:5px yellow solid;
+border-left:5px blue solid;
+border-radius:20px;
+width:1080px;
+}
+.Rakib
+{
+font-family:Arial;
+font-style:italic;
+font-weight:bold;
+}
+ #RAKIB2{
+ padding:5px 5px 5px 5px;
+background-color:yellow;
+width:600px;
+ }
+ a.my-link:hover{
+ color:yellow;
+ float:right;
+ }
+ 
+ input:focus{
+	 background-color:yellow;
+ }
+ input::placeholder{
+	 color:brown;
+ }
+ #saddam{
+ background-color:yellow;
+ }
+ table,tr,td{
+	border:2px solid black; 
+	background-color:yellow;
+ }
+tr:nth-child(odd){
+	background-color:yellow;
+}	 
+ p::first-letter{
+	font-size:2rem;	
+ }
+ body{
+	background-image:url("rafiq.jfif"); 
+ }
+ .gradient-style{
+	 height:400px;
+	 width:100%;
+	 background-image:radial-gradient(circle,red,green,yellow,orange);
+	 
+ }
+ #section1{
+background-color: brown;
+ float:left;
+ border:5px solid white;
+ }
+ #section2{
+	background-color: yellow;
+	 float:right;
+	 border:5px solid white;
+	 }
